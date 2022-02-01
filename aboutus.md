@@ -20,12 +20,12 @@ WeLoveHongKong, WeLoveLIGKG.
 
 Discord: <a href="https://discord.gg/Bd4u5F8k3s">Join in</a>
 
-##### 加入《連登之友》要求:
+### 加入《連登之友》要求:
 
 1.香港人
 2.良心
 
-#####入團方法:
+###入團方法:
 
 1.係Discord打"@肥蕉我想入團,大佬蕉。（一句送俾香港人嘅打氣說話)"
 2.肥蕉收到order後Ts2Online"分流1新手廣場"等待邀請(通常都係分流1)
