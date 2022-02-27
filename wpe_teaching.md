@@ -1,6 +1,6 @@
 # 教學
 
-||<img src="#">Photo||
+<img src="#" style="center">
 
 ## 下載: 
 > ** (以下教學以 Win10 21H2 (HKG-ENG), Google Chorme, WinRAR 環境為例)
@@ -10,32 +10,36 @@
 > 
 >     1.1 係 win 10 右下角 打開 "Windown Security" 
 >     
->     <img src="#">
+>    <img src="./img/11.png">
 >     
 >     1.2 Home Page > 㩒 "Virus & threat protection".
 >     
->     <img src="#">
+>     <img src="./img/2.png">
 >     
 >     1.3 㩒 "Virus & threat protection settings" > 將 "On" 全部改成 "OFF"
 >     (部分人電腦會問你係咪確定要禁做，㩒 "確定/OK" 就得)
 >     
->     <img src="#">
+>     <img src="./img/1.png"><br/>
+>     <img src="./img/3.png"><br/>     
+>     <img src="./img/4.png">
 > 
 > 2. 下載 "WPE_pro.rar"
 > 
->     2.1 打開 "Discord" > 入 "連登吞二圍爐區" > 入 "WPE專區" Channel" > 㩒 "WPE_pro.rar" 文件下載 > 㩒 "仍要下戴"
+>     2.1 打開 "Discord" > 入 "連登吞2圍爐區" > 入 "WPE專區" Channel" > 㩒 "WPE_pro.rar" 文件下載 > 㩒 "仍要下戴"
 > 
->     <img src="#">
+>     <img src="./img/12.png"><br/>
+>     <img src="./img/13.png">
 > 
 >     2.2 係 "Google Chrome" 右下角 "Show More" / 㩒 "Download Page" > 㩒 "Keep dangerous file"
 > 
->     <img src="#">
+>     <img src="./img/6.png"><br/>
+>     <img src="./img/5.png">
 > 
 > 3. 解壓 "WPE_pro.rar"
 > 
 >     3.1 右Click "WPE_pro.rar" 文件 > 㩒 "Extract to WPE_pro.rar\"
 > 
->     <img src="#">
+>     <img src="./img/7.png">
 >     
 > 4. 加入白名單 & 開返 "Win 內置防毒"
 > (如有其他防毒，如何啟動請自行網上查詢)
@@ -44,14 +48,23 @@
 > 
 >     4.2 㩒 "Virus & threat protection settings" > 係 Exclusions 㩒 "Add or remove exclusions"
 >     
+>     <img src="./img/8.png">
+>     
 >     4.3 㩒 "Add an exclusion" > 㩒 "Folder" > 搵返你 "WPE_pro" 存放位置 > 㩒 " Select Folder"
 >     (以我為例: 我放左係F:\Download\WPE\WPE_pro)
 >     
+>     <img src="./img/9.png">
+>     
 >     4.4 成功加入白名單後會見到禁嘅畫面
+>     
+>     <img src="./img/10.png">
 >     
 >     4.5 翻返上一頁 "Virus & threat protection settings"
 >     
 >     4.6 將 "OFF" 全部改成 "ON"
+>     
+>     <img src="./img/4.png"><br/>     
+>     <img src="./img/3.png">
 >     
 
 ## 基本使用:
