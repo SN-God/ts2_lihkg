@@ -97,3 +97,7 @@
 > 
 > 請用  *右 CLICK  "WPE_pro.exe" 用 管 理 員 身 份 打 開*
 >
+
+<hr>
+
+Copyright © 2022 SN.
